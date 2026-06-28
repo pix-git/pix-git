@@ -5,9 +5,11 @@
 <!-- Separate Line -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2"/>
 
-🛠️ Skills
+<h1>
+  🛠️ Skills
+</h1>
 
-<img src="https://skillicons.dev/icons?i=python,react,reactnative,html,css,javascript,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=python,react,html,css,javascript,git,github,figma" />
 
 <!-- Separate Line -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2"/>
