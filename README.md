@@ -12,6 +12,21 @@
 <!-- Separate Line -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2"/>
 
-![snake gif](https://github.com/pix-git/pix-git/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/pix-git/pix-git/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/pix-git/pix-git/gh-pages/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/pix-git/pix-git/gh-pages/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,100:2c5364&section=footer">
