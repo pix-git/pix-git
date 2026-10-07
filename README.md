@@ -1,16 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,100:2c5364&section=header">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3AFF69B4%2C50%3AFF1493%2C100%3AC026D3&section=header&reversal=false&text=Selma+Bener&textBg=false&fontColor=FFF&fontSize=70&fontAlign=50&fontAlignY=35&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=FFFFFF&vCenter=true&multiline=true&width=900&height=125&separator=%3C&lines=A+man+who+fears+pain+more+than+failure+will+taste+both.%3CA+fool+prays+for+an+easier+road;+a+wise+man+prays+for+the+stronger+legs.%3CPray+as+though+everything+depended+on+God.%3CWork+as+though+everything+depended+on+You.)](https://git.io/typing-svg)
+### Hi, I'm Selma! 👋🏻
+🎓 Information Systems Engineering graduate from Piri Reis University, İstanbul<br/>
+🌱 Currently improving my Python skills<br/>
+🚀 Passionate about building useful and scalable applications<br/>
+✉️ You can reach me at: [📫](mailto:selmaabener@gmail.com)
 
-<!-- Separate Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2"/>
+### 🧑🏻‍💻 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selma-bener-a28924251/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selmaabener@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/selmaabener/)
 
 ### 🛠️ Skills
 
-<img src="https://skillicons.dev/icons?i=python,react,html,css,javascript,git,github,figma" />
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-C026D3?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-FF1493?style=for-the-badge&logo=powerbi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-C026D3?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-FF69B4?style=for-the-badge&logo=selenium&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-C026D3?style=for-the-badge&logo=jira&logoColor=white)
 
-<!-- Separate Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/alperenynk/alperenynk/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/alperenynk/alperenynk/gh-pages/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/alperenynk/alperenynk/gh-pages/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ### 🐍 Contribution Snake
 
@@ -29,4 +55,4 @@
   />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,100:2c5364&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3AFF69B4%2C50%3AFF1493%2C100%3AC026D3&section=footer&reversal=false"/>
